@@ -12,4 +12,4 @@ Expected Output:
 The program should print out each probe and the respective bucket that they should be placed in.
 
 How to compile:
-To compile and run the program type: make run
+To compile and run the program type with Unix: make run
